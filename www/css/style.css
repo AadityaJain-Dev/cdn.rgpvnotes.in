@@ -1,0 +1,5 @@
+body{background: #000; color: #fff;}
+div{margin:0.5em;}
+button{margin: 1em 0px 0px 1em;}
+.page-img{width:100%; max-width:300px; height:auto; margin-top: 5em;}
+.custom-padding-for-alert-img{padding:20px;background-color:#fff;}
