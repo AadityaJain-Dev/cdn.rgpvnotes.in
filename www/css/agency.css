@@ -627,3 +627,8 @@ ul.social-buttons li a:hover {
 }
 
 .rgpvnoteslogo{width: 100%;	max-width: 200px;	height: auto;}
+
+::-webkit-scrollbar{width:5px}
+::-webkit-scrollbar-track{background:#161617}
+::-webkit-scrollbar-thumb{background:#f0f0f0}
+::-webkit-scrollbar-thumb:hover{background:#f8f8f8}

@@ -461,7 +461,7 @@ overflow: visible;
 box-sizing: content-box;
 }
 .coolline:after {
-content: url('https://cdn.rgpvnotes.in/btech/media/images/BTech book rgpvnotes.in.png'); /* section sign */
+content: url('https://cdn.rgpvnotes.in/B.Tech/notes/media/images/BTech%20book%20rgpvnotes.in.png'); /* section sign */
 color: #999;
 display: inline; /* for vertical centering and background knockout */
 background-color: #161617;  /* same as background color */
