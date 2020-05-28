@@ -15,7 +15,6 @@ button{margin: 1em 0px 0px 1em;}
                 font-size: 30px;
                 color:#ffffff;
                 text-align: center;
-                margin-top: 25px;
             }
             table, th, td {
             background-color: #ffffff;
@@ -32,3 +31,14 @@ button{margin: 1em 0px 0px 1em;}
             .payment-logo{
                 height: 32px;
             }
+
+            @media only screen and (max-width: 600px) {
+                .page-img{width:100%; max-width:300px; height:auto; margin-top: .1em;}
+            
+                caption{
+                    font-weight: bold;
+                    font-size: 10px;
+                    color:#ffffff;
+                    text-align: center;
+                }
+              }            
