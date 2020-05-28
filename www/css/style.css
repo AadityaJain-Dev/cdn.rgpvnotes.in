@@ -8,3 +8,30 @@ button{margin: 1em 0px 0px 1em;}
 ::-webkit-scrollbar-track{background:#161617}
 ::-webkit-scrollbar-thumb{background:#f0f0f0}
 ::-webkit-scrollbar-thumb:hover{background:#f8f8f8}
+
+
+            caption{
+                font-weight: bold;
+                font-size: 30px;
+                color:#ffffff;
+                text-align: center;
+                margin-top: 25px;
+            }
+            table, th, td {
+            background-color: #ffffff;
+            border: 1px solid black;
+            color: black;
+            font-weight: bold;
+            }
+            td>a{
+            text-decoration: none;
+            }
+            table {
+            border-radius: .5em;
+            }
+            .payment-logo{
+                height: 32px;
+            }
+            p{
+                font-size: 18px;
+            }
